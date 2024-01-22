@@ -1,4 +1,4 @@
-module github.com/cocktail828/message
+module github.com/cocktail828/messagepb
 
 go 1.20
 
